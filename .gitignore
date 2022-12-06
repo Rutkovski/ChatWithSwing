@@ -1,5 +1,15 @@
 # Project exclude paths
 /out/
-.idea
-.gitignore
-.jrtc
+*.gitignore
+*.jrtc
+.idea/
+*.iml
+.iml
+*.iws
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
